@@ -120,6 +120,9 @@
       <dir>C:\Users\Galni\PhpstormProjects\tmdb-app-master\src\directives</dir>
     </dirStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -157,6 +160,7 @@
     <option name="width" value="1900" />
     <option name="height" value="1040" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -200,6 +204,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -255,12 +260,12 @@
       <updated>1576358235686</updated>
       <workItem from="1576358236857" duration="15949000" />
       <workItem from="1576449968424" duration="31000" />
-      <workItem from="1576450094402" duration="3822000" />
+      <workItem from="1576450094402" duration="4132000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19802000" />
+    <option name="totallyTimeSpent" value="20112000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -275,8 +280,8 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info id="npm" order="1" sideWeight="0.24796085" side_tool="true" visible="true" weight="0.15369128" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.75203913" visible="true" weight="0.15369128" />
+      <window_info id="npm" order="1" sideWeight="0.07667211" side_tool="true" visible="true" weight="0.15369128" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.9233279" visible="true" weight="0.15369128" />
       <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" visible="true" weight="0.13172804" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
